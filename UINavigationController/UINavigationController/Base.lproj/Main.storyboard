@@ -44,7 +44,7 @@
             </objects>
             <point key="canvasLocation" x="950" y="793"/>
         </scene>
-        <!--View Controller-->
+        <!--山に遊びに行く-->
         <scene sceneID="SaQ-e6-snB">
             <objects>
                 <viewController id="YFV-Nq-aoQ" sceneMemberID="viewController">
@@ -54,6 +54,7 @@
                         <color key="backgroundColor" red="0.1137254902" green="0.91372549020000005" blue="0.58431372550000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="yst-ph-CI8"/>
                     </view>
+                    <navigationItem key="navigationItem" title="山に遊びに行く" id="8un-hU-HOX"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Kux-NV-bzE" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
