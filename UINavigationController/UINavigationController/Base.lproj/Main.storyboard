@@ -22,6 +22,9 @@
                                 <rect key="frame" x="156" y="204" width="62" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="海を選ぶ"/>
+                                <connections>
+                                    <segue destination="ZxM-en-hYH" kind="show" id="zKy-lK-5bS"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7Fs-JH-Ria">
                                 <rect key="frame" x="156" y="382" width="62" height="30"/>
