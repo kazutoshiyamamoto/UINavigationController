@@ -30,6 +30,9 @@
                                 <rect key="frame" x="156" y="382" width="62" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="山を選ぶ"/>
+                                <connections>
+                                    <segue destination="YFV-Nq-aoQ" kind="show" id="5oe-hv-Zd0"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -56,7 +59,7 @@
             </objects>
             <point key="canvasLocation" x="1731" y="1126"/>
         </scene>
-        <!--View Controller-->
+        <!--海に遊びに行く-->
         <scene sceneID="YLV-ag-VBb">
             <objects>
                 <viewController id="ZxM-en-hYH" sceneMemberID="viewController">
@@ -66,6 +69,7 @@
                         <color key="backgroundColor" red="0.0" green="0.58980089430000004" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="zdd-TX-U6L"/>
                     </view>
+                    <navigationItem key="navigationItem" title="海に遊びに行く" id="Fy0-Ah-0ik"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cMX-6h-3Ve" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
